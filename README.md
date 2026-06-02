@@ -16,8 +16,3 @@ The "Organization" consists of four distinct agents:
 ### Prerequisites
 You will need Python 3.10+ and [Ollama](https://ollama.com/) installed on your machine.
 
-1. **Clone and Install Dependencies**
-   ```bash
-   git clone <your-repo-link>
-   cd nth-ai-research-desk
-   pip install -r requirements.txt
